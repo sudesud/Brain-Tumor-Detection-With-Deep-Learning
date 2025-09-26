@@ -57,5 +57,5 @@ Gelecek çalışmalar için:
 ---
 
 ## Linkler
-- **Kaggle Notebook Linki:** [Kaggle Çalışmam]([[[https://www.kaggle.com/](https://www.kaggle.com/code/sudetacer/notebook2ae338eafe)](https://www.kaggle.com/code/sudetacer/notebook2ae338eafe)](https://www.kaggle.com/code/sudetacer/notebook2ae338eafe))  
+- **Kaggle Notebook Linki:**[Kaggle Notebook](https://www.kaggle.com/code/sudetacer/notebook2ae338eafe)  
 - **Dataset Linki:** [Brain Tumor MRI Dataset](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset)  
